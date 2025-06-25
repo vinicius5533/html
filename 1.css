@@ -1,0 +1,19 @@
+body{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+}
+.imagem3{
+  border-image: repeat;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-left: 130px;
+  width: 60% ;
+  height: max-content;
+}
+h2{
+  border: solid 2px;
+  border-radius: 14px;
+  color: bisque;
+}
